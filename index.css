@@ -1,0 +1,22 @@
+#logo {
+    border-radius: 50%;
+    border-color: transparent;
+    border: solid 1px;
+}
+
+#getRecipe {
+    margin-top: 1%;
+}
+
+#Cards{
+    box-shadow: 5px 5px rgba(128, 128, 128, 0.425);
+}
+
+#recipies {
+    display: flex;
+    flex-direction: column;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin-top: 5%;
+}
